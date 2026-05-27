@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260527-062020-ujbl",
+      "title": "Bigpush",
+      "commanders": [
+        "Bigpush"
+      ],
+      "dateStart": "2026-05-27T13:20:20.000Z",
+      "dateEnd": "2026-05-27T13:51:17.000Z",
+      "dateLabel": "5/27/2026, 6:20:20 AM - 5/27/2026, 6:51:17 AM",
+      "url": "https://jepark0805.github.io/huh9k/?report=20260527-062020-ujbl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 49
+      }
+    }
+  ]
+}
