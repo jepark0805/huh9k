@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-063907-84im",
+      "title": "T B E J A Y C E",
+      "commanders": [
+        "T B E J A Y C E"
+      ],
+      "dateStart": "2026-06-20T13:39:07.000Z",
+      "dateEnd": "2026-06-20T14:35:00.000Z",
+      "dateLabel": "6/20/2026, 6:39:07 AM - 6/20/2026, 7:35:00 AM",
+      "url": "https://jepark0805.github.io/huh9k/?report=20260620-063907-84im",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 64
+      }
+    },
+    {
       "id": "20260614-062350-mn65",
       "title": "Kingofcharrs, Kingofmesmers",
       "commanders": [
