@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-060743-m28w",
+      "title": "Kingofcharrs",
+      "commanders": [
+        "Kingofcharrs"
+      ],
+      "dateStart": "2026-06-26T13:07:43.000Z",
+      "dateEnd": "2026-06-26T13:54:09.000Z",
+      "dateLabel": "6/26/2026, 6:07:43 AM - 6/26/2026, 6:54:09 AM",
+      "url": "https://jepark0805.github.io/huh9k/?report=20260626-060743-m28w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 24,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260620-063907-84im",
       "title": "T B E J A Y C E",
       "commanders": [
