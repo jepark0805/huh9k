@@ -1,312 +1,284 @@
-{
-  "colorPalette": "electric-blue",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260706-055556-3vvi",
-      "title": "Kingofmesmers",
-      "commanders": [
-        "Kingofmesmers"
+[
+  {
+    "id": "20260706-055556-3vvi",
+    "title": "Kingofmesmers",
+    "commanders": [
+      "Kingofmesmers"
+    ],
+    "dateStart": "2026-07-06T12:55:56.000Z",
+    "dateEnd": "2026-07-06T13:41:26.000Z",
+    "dateLabel": "7/6/2026, 5:55:56 AM - 7/6/2026, 6:41:26 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260706-055556-3vvi",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 22,
+          "color": "#ffffff"
+        }
       ],
-      "dateStart": "2026-07-06T12:55:56.000Z",
-      "dateEnd": "2026-07-06T13:41:26.000Z",
-      "dateLabel": "7/6/2026, 5:55:56 AM - 7/6/2026, 6:41:26 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260706-055556-3vvi",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 22,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260704-060512-u74v",
-      "title": "Kingofmesmers",
-      "commanders": [
-        "Kingofmesmers"
-      ],
-      "dateStart": "2026-07-04T13:05:12.000Z",
-      "dateEnd": "2026-07-04T13:55:51.000Z",
-      "dateLabel": "7/4/2026, 6:05:12 AM - 7/4/2026, 6:55:51 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260704-060512-u74v",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 30,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 47
-      }
-    },
-    {
-      "id": "20260703-061432-82tq",
-      "title": "Kingofmesmers",
-      "commanders": [
-        "Kingofmesmers"
-      ],
-      "dateStart": "2026-07-03T13:14:32.000Z",
-      "dateEnd": "2026-07-03T13:58:05.000Z",
-      "dateLabel": "7/3/2026, 6:14:32 AM - 7/3/2026, 6:58:05 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260703-061432-82tq",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 36,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 19
-      }
-    },
-    {
-      "id": "20260703-061432-h7v0",
-      "title": "Kingofmesmers",
-      "commanders": [
-        "Kingofmesmers"
-      ],
-      "dateStart": "2026-07-03T13:14:32.000Z",
-      "dateEnd": "2026-07-03T13:58:05.000Z",
-      "dateLabel": "7/3/2026, 6:14:32 AM - 7/3/2026, 6:58:05 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260703-061432-h7v0",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 36,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 19
-      }
-    },
-    {
-      "id": "20260630-060327-90pe",
-      "title": "Kingofmesmers",
-      "commanders": [
-        "Kingofmesmers"
-      ],
-      "dateStart": "2026-06-30T13:03:27.000Z",
-      "dateEnd": "2026-06-30T13:58:32.000Z",
-      "dateLabel": "6/30/2026, 6:03:27 AM - 6/30/2026, 6:58:32 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260630-060327-90pe",
-      "summary": {
-        "borderlandsPct": 0.29411764705882354,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 12,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260626-060743-m28w",
-      "title": "Kingofcharrs",
-      "commanders": [
-        "Kingofcharrs"
-      ],
-      "dateStart": "2026-06-26T13:07:43.000Z",
-      "dateEnd": "2026-06-26T13:54:09.000Z",
-      "dateLabel": "6/26/2026, 6:07:43 AM - 6/26/2026, 6:54:09 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260626-060743-m28w",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 24,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 19
-      }
-    },
-    {
-      "id": "20260620-063907-84im",
-      "title": "T B E J A Y C E",
-      "commanders": [
-        "T B E J A Y C E"
-      ],
-      "dateStart": "2026-06-20T13:39:07.000Z",
-      "dateEnd": "2026-06-20T14:35:00.000Z",
-      "dateLabel": "6/20/2026, 6:39:07 AM - 6/20/2026, 7:35:00 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260620-063907-84im",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 22,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 64
-      }
-    },
-    {
-      "id": "20260614-062350-mn65",
-      "title": "Kingofcharrs, Kingofmesmers",
-      "commanders": [
-        "Kingofcharrs",
-        "Kingofmesmers"
-      ],
-      "dateStart": "2026-06-14T13:23:50.000Z",
-      "dateEnd": "2026-06-14T14:14:49.000Z",
-      "dateLabel": "6/14/2026, 6:23:50 AM - 6/14/2026, 7:14:49 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260614-062350-mn65",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 18,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 14,
-        "avgEnemySize": 14
-      }
-    },
-    {
-      "id": "20260602-071621-415x",
-      "title": "Bigpush",
-      "commanders": [
-        "Bigpush"
-      ],
-      "dateStart": "2026-06-02T14:16:21.000Z",
-      "dateEnd": "2026-06-02T14:45:16.000Z",
-      "dateLabel": "6/2/2026, 7:16:21 AM - 6/2/2026, 7:45:16 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260602-071621-415x",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 11,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260602-061324-ivic",
-      "title": "Bigpush",
-      "commanders": [
-        "Bigpush"
-      ],
-      "dateStart": "2026-06-02T13:13:24.000Z",
-      "dateEnd": "2026-06-02T14:10:49.000Z",
-      "dateLabel": "6/2/2026, 6:13:24 AM - 6/2/2026, 7:10:49 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260602-061324-ivic",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 26,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20260531-061726-17el",
-      "title": "Kingofcharrs",
-      "commanders": [
-        "Kingofcharrs"
-      ],
-      "dateStart": "2026-05-31T13:17:26.000Z",
-      "dateEnd": "2026-05-31T14:25:09.000Z",
-      "dateLabel": "5/31/2026, 6:17:26 AM - 5/31/2026, 7:25:09 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260531-061726-17el",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 28,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260530-063016-kxf6",
-      "title": "T B E J A Y C E",
-      "commanders": [
-        "T B E J A Y C E"
-      ],
-      "dateStart": "2026-05-30T13:30:16.000Z",
-      "dateEnd": "2026-05-30T14:17:10.000Z",
-      "dateLabel": "5/30/2026, 6:30:16 AM - 5/30/2026, 7:17:10 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260530-063016-kxf6",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 18,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 39
-      }
-    },
-    {
-      "id": "20260527-062020-ujbl",
-      "title": "Bigpush",
-      "commanders": [
-        "Bigpush"
-      ],
-      "dateStart": "2026-05-27T13:20:20.000Z",
-      "dateEnd": "2026-05-27T13:51:17.000Z",
-      "dateLabel": "5/27/2026, 6:20:20 AM - 5/27/2026, 6:51:17 AM",
-      "url": "https://jepark0805.github.io/huh9k/?report=20260527-062020-ujbl",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 20,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 49
-      }
+      "avgSquadSize": 29,
+      "avgEnemySize": 42
     }
-  ]
-}
+  },
+  {
+    "id": "20260704-060512-u74v",
+    "title": "Kingofmesmers",
+    "commanders": [
+      "Kingofmesmers"
+    ],
+    "dateStart": "2026-07-04T13:05:12.000Z",
+    "dateEnd": "2026-07-04T13:55:51.000Z",
+    "dateLabel": "7/4/2026, 6:05:12 AM - 7/4/2026, 6:55:51 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260704-060512-u74v",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 30,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 47
+    }
+  },
+  {
+    "id": "20260703-061432-82tq",
+    "title": "Kingofmesmers",
+    "commanders": [
+      "Kingofmesmers"
+    ],
+    "dateStart": "2026-07-03T13:14:32.000Z",
+    "dateEnd": "2026-07-03T13:58:05.000Z",
+    "dateLabel": "7/3/2026, 6:14:32 AM - 7/3/2026, 6:58:05 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260703-061432-82tq",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 36,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 19
+    }
+  },
+  {
+    "id": "20260630-060327-90pe",
+    "title": "Kingofmesmers",
+    "commanders": [
+      "Kingofmesmers"
+    ],
+    "dateStart": "2026-06-30T13:03:27.000Z",
+    "dateEnd": "2026-06-30T13:58:32.000Z",
+    "dateLabel": "6/30/2026, 6:03:27 AM - 6/30/2026, 6:58:32 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260630-060327-90pe",
+    "summary": {
+      "borderlandsPct": 0.29411764705882354,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 12,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260626-060743-m28w",
+    "title": "Kingofcharrs",
+    "commanders": [
+      "Kingofcharrs"
+    ],
+    "dateStart": "2026-06-26T13:07:43.000Z",
+    "dateEnd": "2026-06-26T13:54:09.000Z",
+    "dateLabel": "6/26/2026, 6:07:43 AM - 6/26/2026, 6:54:09 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260626-060743-m28w",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 24,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 19
+    }
+  },
+  {
+    "id": "20260620-063907-84im",
+    "title": "T B E J A Y C E",
+    "commanders": [
+      "T B E J A Y C E"
+    ],
+    "dateStart": "2026-06-20T13:39:07.000Z",
+    "dateEnd": "2026-06-20T14:35:00.000Z",
+    "dateLabel": "6/20/2026, 6:39:07 AM - 6/20/2026, 7:35:00 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260620-063907-84im",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 22,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 64
+    }
+  },
+  {
+    "id": "20260614-062350-mn65",
+    "title": "Kingofcharrs, Kingofmesmers",
+    "commanders": [
+      "Kingofcharrs",
+      "Kingofmesmers"
+    ],
+    "dateStart": "2026-06-14T13:23:50.000Z",
+    "dateEnd": "2026-06-14T14:14:49.000Z",
+    "dateLabel": "6/14/2026, 6:23:50 AM - 6/14/2026, 7:14:49 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260614-062350-mn65",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 18,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 14
+    }
+  },
+  {
+    "id": "20260602-071621-415x",
+    "title": "Bigpush",
+    "commanders": [
+      "Bigpush"
+    ],
+    "dateStart": "2026-06-02T14:16:21.000Z",
+    "dateEnd": "2026-06-02T14:45:16.000Z",
+    "dateLabel": "6/2/2026, 7:16:21 AM - 6/2/2026, 7:45:16 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260602-071621-415x",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 11,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260602-061324-ivic",
+    "title": "Bigpush",
+    "commanders": [
+      "Bigpush"
+    ],
+    "dateStart": "2026-06-02T13:13:24.000Z",
+    "dateEnd": "2026-06-02T14:10:49.000Z",
+    "dateLabel": "6/2/2026, 6:13:24 AM - 6/2/2026, 7:10:49 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260602-061324-ivic",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 26,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20260531-061726-17el",
+    "title": "Kingofcharrs",
+    "commanders": [
+      "Kingofcharrs"
+    ],
+    "dateStart": "2026-05-31T13:17:26.000Z",
+    "dateEnd": "2026-05-31T14:25:09.000Z",
+    "dateLabel": "5/31/2026, 6:17:26 AM - 5/31/2026, 7:25:09 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260531-061726-17el",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 28,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260530-063016-kxf6",
+    "title": "T B E J A Y C E",
+    "commanders": [
+      "T B E J A Y C E"
+    ],
+    "dateStart": "2026-05-30T13:30:16.000Z",
+    "dateEnd": "2026-05-30T14:17:10.000Z",
+    "dateLabel": "5/30/2026, 6:30:16 AM - 5/30/2026, 7:17:10 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260530-063016-kxf6",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 18,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 39
+    }
+  },
+  {
+    "id": "20260527-062020-ujbl",
+    "title": "Bigpush",
+    "commanders": [
+      "Bigpush"
+    ],
+    "dateStart": "2026-05-27T13:20:20.000Z",
+    "dateEnd": "2026-05-27T13:51:17.000Z",
+    "dateLabel": "5/27/2026, 6:20:20 AM - 5/27/2026, 6:51:17 AM",
+    "url": "https://jepark0805.github.io/huh9k/?report=20260527-062020-ujbl",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 20,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 49
+    }
+  }
+]
