@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-055623-ugya",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-26T12:56:23.000Z",
+      "dateEnd": "2026-07-26T14:06:41.000Z",
+      "dateLabel": "7/26/2026, 5:56:23 AM - 7/26/2026, 7:06:41 AM",
+      "url": "https://jepark0805.github.io/huh9k/?report=20260726-055623-ugya",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260722-061020-y4wa",
       "title": "Kingofmesmers",
       "commanders": [
