@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-053931-hwhk",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-15T12:39:31.000Z",
+      "dateEnd": "2026-08-15T14:13:20.000Z",
+      "dateLabel": "8/15/2026, 5:39:31 AM - 8/15/2026, 7:13:20 AM",
+      "url": "https://jepark0805.github.io/huh9k/?report=20260815-053931-hwhk",
+      "summary": {
+        "borderlandsPct": 0.375,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260806-065003-4p0r",
       "title": "Kingofmesmers",
       "commanders": [
