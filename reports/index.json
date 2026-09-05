@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-053848-1vmq",
+      "title": "Follow This Tag",
+      "commanders": [
+        "Follow This Tag"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-05T12:38:48.000Z",
+      "dateEnd": "2026-09-05T13:19:16.227Z",
+      "dateLabel": "9/5/2026, 5:38:48 AM - 9/5/2026, 6:19:16 AM",
+      "url": "https://jepark0805.github.io/huh9k/?report=20260905-053848-1vmq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260830-065154-yvbz",
       "title": "Kingofmesmers",
       "commanders": [
